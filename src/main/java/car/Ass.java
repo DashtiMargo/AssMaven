@@ -1,5 +1,5 @@
 package car;
 
-public class Test {
+ class Test {
     String test = "тестирую ветку";
 }
