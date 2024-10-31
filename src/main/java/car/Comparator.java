@@ -12,7 +12,7 @@ public class Comparator{
     }
 }
 
-class StringLengthComparator implements Comparator<String>
+class StringLengthComparator
 {
     public int compare (String obj1, String obj2)
     {
